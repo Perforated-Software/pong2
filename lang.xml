@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<langs>
+  <en-ca>
+    <Menu>
+      <Singleplayer>Singleplayer</Singleplayer>
+      <Multiplayer>Multiplayer</Multiplayer>
+      <OnlineMultiplayer>Online Multiplayer</OnlineMultiplayer>
+      <Beta>Beta</Beta>
+      <Settings>Settings</Settings>
+      <ArcadeMode>Arcade Mode</ArcadeMode>
+      <Notification>Pong 2 works OFFLINE! Visit pong-2.com even without internet!</Notification>
+    </Menu>
+    <Settings>
+      <Settings>Settings</Settings>
+      <Singleplayer>Singleplayer</Singleplayer>
+      <ArcadeMode>Arcade Mode</ArcadeMode>
+      <RallyHighscore>Rally Highscore: </RallyHighscore>
+      <CustomizeColours>Customize Colours</CustomizeColours>
+      <ResetSettings>Reset Settings</ResetSettings>
+      <ResetPaddle>Reset Paddle Position On Goal</ResetPaddle>
+      <BackgroundColour>Background Colour: </BackgroundColour>
+      <BallSpeed>Ball Speed: </BallSpeed>
+      <EnableSound>Enable Sound:</EnableSound>
+      <PaddleSpeed>Paddle Speed: </PaddleSpeed>
+      <MatchScoreLimit>Match Score Limit:</MatchScoreLimit>
+      <FirstToScoreWins>First to this score wins</FirstToScoreWins>
+      <Volume>Volume: </Volume>
+      <Difficulty>Difficulty: </Difficulty>
+      <Difficulty id="-4">Beginner</Difficulty>
+      <Difficulty id="-2">Easy</Difficulty>
+      <Difficulty id="0">Normal</Difficulty>
+      <Difficulty id="2">Hard</Difficulty>
+      <Difficulty id="4">Pro</Difficulty>
+      <PaddleOuterColour>Paddle Outer Colour:</PaddleOuterColour>
+      <PaddleInnerColour>Paddle Inner Colour:</PaddleInnerColour>
+      <BackgroundColour>Background Colour:</BackgroundColour>
+      <BallColour>Ball Colour:</BallColour>
+      <ColourPreview>Preview</ColourPreview>
+      <RequiresRallyHS>Requires rally highscore to unlock</RequiresRallyHS>
+      <BallEffect>Ball Effect:</BallEffect>
+      <Ten>10</Ten>
+      <TwentyFive>25</TwentyFive>
+      <Fifty>50</Fifty>
+      <ResetColours>Reset Colours</ResetColours>
+    </Settings>
+    <OnlineMultiConnect>
+      <OnlineMultiplayer>Online Multiplayer</OnlineMultiplayer>
+      <Beta>BETA</Beta>
+      <Room>Room: </Room>
+      <Room id="Random">(Random Partner)</Room>
+      <Info1>To play with a friend make sure you set your room the same name before joining</Info1>
+      <Info2>Players may not be searching for a match so their may be long wait times. Better match making is coming soon!</Info2>
+      <Play>Play</Play>
+      <ChangeRoom>Change Room</ChangeRoom>
+    </OnlineMultiConnect>
+    <SelectMultiType>
+      <SelectGameType>Select Game Type</SelectGameType>
+      <Competitive>Competitive</Competitive>
+      <Casual>Casual</Casual>
+      <FirstToTen>First To 10</FirstToTen>
+      <Back>Back</Back>
+    </SelectMultiType>
+    <Game>
+      <Room>Room: </Room>
+      <Room id="Random">(Random Partner)</Room>
+      <PongCompetitive>Pong Competitive</PongCompetitive>
+      <Rally>Rally: </Rally>
+      <ClickToRestart>Click anywhere to restart</ClickToRestart>
+      <TapToRestart>Tap anywhere to restart</TapToRestart>
+      <ClickToBegin>Click to Begin</ClickToBegin>
+      <Begin>Click To Begin</Begin>
+      <TapToBegin>Tap To Begin</TapToBegin>
+      <WaitingForOpponent>Waiting For An Opponent</WaitingForOpponent>
+      <WaitingForHost>Waiting For Host to Start Game</WaitingForHost>
+      <NewHighScore>New High Score!</NewHighScore>
+      <NewBallEffect>New Ball Effect Unlocked!</NewBallEffect>
+    </Game>
+    <Loading>
+      <LoadingTip>Tip: This site can be will be saved for offline play, so you can visit even without internet</LoadingTip>
+    </Loading>
+  </en-ca>
+  <en-us>
+    <Menu>
+      <Singleplayer>Singleplayer</Singleplayer>
+      <Multiplayer>Multiplayer</Multiplayer>
+      <OnlineMultiplayer>Online Multiplayer</OnlineMultiplayer>
+      <Beta>Beta</Beta>
+      <Settings>Settings</Settings>
+      <ArcadeMode>Arcade Mode</ArcadeMode>
+      <Notification>Pong 2 works OFFLINE! Visit pong-2.com even without internet!</Notification>
+    </Menu>
+    <Settings>
+      <Settings>Settings</Settings>
+      <Singleplayer>Singleplayer</Singleplayer>
+      <ArcadeMode>Arcade Mode</ArcadeMode>
+      <RallyHighscore>Rally Highscore: </RallyHighscore>
+      <CustomizeColours>Customize Colors</CustomizeColours>
+      <ResetSettings>Reset Settings</ResetSettings>
+      <ResetPaddle>Reset Paddle Position On Goal</ResetPaddle>
+      <BackgroundColour>Background Color: </BackgroundColour>
+      <BallSpeed>Ball Speed: </BallSpeed>
+      <EnableSound>Enable Sound:</EnableSound>
+      <PaddleSpeed>Paddle Speed: </PaddleSpeed>
+      <MatchScoreLimit>Match Score Limit:</MatchScoreLimit>
+      <FirstToScoreWins>First to this score wins</FirstToScoreWins>
+      <Volume>Volume: </Volume>
+      <Difficulty>Difficulty: </Difficulty>
+      <Difficulty id="-4">Beginner</Difficulty>
+      <Difficulty id="-2">Easy</Difficulty>
+      <Difficulty id="0">Normal</Difficulty>
+      <Difficulty id="2">Hard</Difficulty>
+      <Difficulty id="4">Pro</Difficulty>
+      <PaddleOuterColour>Paddle Outer Color:</PaddleOuterColour>
+      <PaddleInnerColour>Paddle Middle Color:</PaddleInnerColour>
+      <BackgroundColour>Background Color:</BackgroundColour>
+      <BallColour>Ball Color:</BallColour>
+      <ColourPreview>Preview</ColourPreview>
+      <RequiresRallyHS>Requires rally highscore to unlock</RequiresRallyHS>
+      <BallEffect>Ball Effect:</BallEffect>
+      <Ten>10</Ten>
+      <TwentyFive>25</TwentyFive>
+      <Fifty>50</Fifty>
+      <ResetColours>Reset Colors</ResetColours>
+    </Settings>
+    <OnlineMultiConnect>
+      <OnlineMultiplayer>Online Multiplayer</OnlineMultiplayer>
+      <Beta>BETA</Beta>
+      <Room>Room: </Room>
+      <Room id="Random">(Random Partner)</Room>
+      <Info1>To play with a friend make sure you set your room the same name before joining</Info1>
+      <Info2>Players may not be searching for a match so their may be long wait times. Better match making is coming soon!</Info2>
+      <Play>Play</Play>
+      <ChangeRoom>Change Room</ChangeRoom>
+    </OnlineMultiConnect>
+    <SelectMultiType>
+      <SelectGameType>Select Game Type</SelectGameType>
+      <Competitive>Competitive</Competitive>
+      <Casual>Casual</Casual>
+      <FirstToTen>First To 10</FirstToTen>
+      <Back>Back</Back>
+    </SelectMultiType>
+    <Game>
+      <Room>Room: </Room>
+      <Room id="Random">(Random Partner)</Room>
+      <PongCompetitive>Pong Competitive</PongCompetitive>
+      <Rally>Rally: </Rally>
+      <ClickToRestart>Click anywhere to restart</ClickToRestart>
+      <TapToRestart>Tap anywhere to restart</TapToRestart>
+      <ClickToBegin>Click to Begin</ClickToBegin>
+      <Begin>Click To Begin</Begin>
+      <TapToBegin>Tap To Begin</TapToBegin>
+      <WaitingForOpponent>Waiting For An Opponent</WaitingForOpponent>
+      <WaitingForHost>Waiting For Host to Start Game</WaitingForHost>
+      <NewHighScore>New High Score!</NewHighScore>
+      <NewBallEffect>New Ball Effect Unlocked!</NewBallEffect>
+    </Game>
+    <Loading>
+      <LoadingTip>Tip: This site can be will be saved for offline play, so you can visit even without internet</LoadingTip>
+    </Loading>
+  </en-us>
+  <en-gb>
+    <Menu>
+      <Singleplayer>Singleplayer</Singleplayer>
+      <Multiplayer>Multiplayer</Multiplayer>
+      <OnlineMultiplayer>Online Multiplayer</OnlineMultiplayer>
+      <Beta>Beta</Beta>
+      <Settings>Settings</Settings>
+      <ArcadeMode>Arcade Mode</ArcadeMode>
+      <Notification>Pong 2 works OFFLINE! Visit pong-2.com even without internet!</Notification>
+    </Menu>
+    <Settings>
+      <Settings>Settings</Settings>
+      <Singleplayer>Singleplayer</Singleplayer>
+      <ArcadeMode>Arcade Mode</ArcadeMode>
+      <RallyHighscore>Rally Highscore: </RallyHighscore>
+      <CustomizeColours>Customize Colours</CustomizeColours>
+      <ResetSettings>Reset Settings</ResetSettings>
+      <ResetPaddle>Reset Paddle Position On Goal</ResetPaddle>
+      <BackgroundColour>Background Colour: </BackgroundColour>
+      <BallSpeed>Ball Speed: </BallSpeed>
+      <EnableSound>Enable Sound:</EnableSound>
+      <PaddleSpeed>Paddle Speed: </PaddleSpeed>
+      <MatchScoreLimit>Match Score Limit:</MatchScoreLimit>
+      <FirstToScoreWins>First to this score wins</FirstToScoreWins>
+      <Volume>Volume: </Volume>
+      <Difficulty>Difficulty: </Difficulty>
+      <Difficulty id="-4">Beginner</Difficulty>
+      <Difficulty id="-2">Easy</Difficulty>
+      <Difficulty id="0">Normal</Difficulty>
+      <Difficulty id="2">Hard</Difficulty>
+      <Difficulty id="4">Pro</Difficulty>
+      <PaddleOuterColour>Paddle Outer Colour:</PaddleOuterColour>
+      <PaddleInnerColour>Paddle Inner Colour:</PaddleInnerColour>
+      <BackgroundColour>Background Colour:</BackgroundColour>
+      <BallColour>Ball Colour:</BallColour>
+      <ColourPreview>Preview</ColourPreview>
+      <RequiresRallyHS>Requires rally highscore to unlock</RequiresRallyHS>
+      <BallEffect>Ball Effect:</BallEffect>
+      <Ten>10</Ten>
+      <TwentyFive>25</TwentyFive>
+      <Fifty>50</Fifty>
+      <ResetColours>Reset Colours</ResetColours>
+    </Settings>
+    <OnlineMultiConnect>
+      <OnlineMultiplayer>Online Multiplayer</OnlineMultiplayer>
+      <Beta>BETA</Beta>
+      <Room>Room: </Room>
+      <Room id="Random">(Random Partner)</Room>
+      <Info1>To play with a friend make sure you set your room the same name before joining</Info1>
+      <Info2>Players may not be searching for a match so their may be long wait times. Better match making is coming soon!</Info2>
+      <Play>Play</Play>
+      <ChangeRoom>Change Room</ChangeRoom>
+    </OnlineMultiConnect>
+    <SelectMultiType>
+      <SelectGameType>Select Game Type</SelectGameType>
+      <Competitive>Competitive</Competitive>
+      <Casual>Casual</Casual>
+      <FirstToTen>First To 10</FirstToTen>
+      <Back>Back</Back>
+    </SelectMultiType>
+    <Game>
+      <Room>Room: </Room>
+      <Room id="Random">(Random Partner)</Room>
+      <PongCompetitive>Pong Competitive</PongCompetitive>
+      <Rally>Rally: </Rally>
+      <ClickToRestart>Click anywhere to restart</ClickToRestart>
+      <TapToRestart>Tap anywhere to restart</TapToRestart>
+      <ClickToBegin>Click to Begin</ClickToBegin>
+      <Begin>Click To Begin</Begin>
+      <TapToBegin>Tap To Begin</TapToBegin>
+      <WaitingForOpponent>Waiting For An Opponent</WaitingForOpponent>
+      <WaitingForHost>Waiting For Host to Start Game</WaitingForHost>
+      <NewHighScore>New High Score!</NewHighScore>
+      <NewBallEffect>New Ball Effect Unlocked!</NewBallEffect>
+    </Game>
+    <Loading>
+      <LoadingTip>Tip: This site can be will be saved for offline play, so you can visit even without internet</LoadingTip>
+    </Loading>
+  </en-gb>
+  <fr>
+    <Menu>
+      <Singleplayer>Solo</Singleplayer>
+      <Multiplayer>Multijoueur</Multiplayer>
+      <OnlineMultiplayer>Jeu Multijoueur en Ligne</OnlineMultiplayer>
+      <Beta>Bêta</Beta>
+      <Settings>Paramètres</Settings>
+      <ArcadeMode>Jeu D'arcade</ArcadeMode>
+      <Notification>Traduction incorrecte? Suggérez un changement en cliquant sur l'icône de feedback en bas à droite!</Notification>
+    </Menu>
+    <Settings>
+      <Settings>Paramètres</Settings>
+      <Singleplayer>Solo</Singleplayer>
+      <ArcadeMode>Jeu D'arcade</ArcadeMode>
+      <RallyHighscore>Rallye Score élevé: </RallyHighscore>
+      <CustomizeColours>Personnaliser les Couleurs</CustomizeColours>
+      <ResetSettings>Réinitialiser les Options</ResetSettings>
+      <ResetPaddle>Réinitialiser la position de la raquette sur le but</ResetPaddle>
+      <BackgroundColour>Couleur de fond: </BackgroundColour>
+      <BallSpeed>Vitesse de balle: </BallSpeed>
+      <EnableSound>Activer le son:</EnableSound>
+      <PaddleSpeed>La vitesse de la raquette: </PaddleSpeed>
+      <MatchScoreLimit>Limite du score de match:</MatchScoreLimit>
+      <FirstToScoreWins>(Premier à ce score gagne)</FirstToScoreWins>
+      <Volume>Volume: </Volume>
+      <Difficulty>Difficulté: </Difficulty>
+      <Difficulty id="-4">Débutant</Difficulty>
+      <Difficulty id="-2">Facile</Difficulty>
+      <Difficulty id="0">Normal</Difficulty>
+      <Difficulty id="2">Difficile</Difficulty>
+      <Difficulty id="4">Pro</Difficulty>
+      <PaddleOuterColour>Raquette Couleur extérieure:</PaddleOuterColour>
+      <PaddleInnerColour>Raquette Inner Colour:</PaddleInnerColour>
+      <BackgroundColour>Background Couleur intérieure:</BackgroundColour>
+      <BallColour>Couleur de balle:</BallColour>
+      <ColourPreview>Aperçu</ColourPreview>
+      <RequiresRallyHS>Rallye score élevé déverrouille</RequiresRallyHS>
+      <BallEffect>Effet boule:</BallEffect>
+      <Ten>10</Ten>
+      <TwentyFive>25</TwentyFive>
+      <Fifty>50</Fifty>
+      <ResetColours>Réinitialiser les couleurs</ResetColours>
+    </Settings>
+    <OnlineMultiConnect>
+      <OnlineMultiplayer>Jeu Multijoueur en Ligne</OnlineMultiplayer>
+      <Beta>BÊTA</Beta>
+      <Room>Chambre: </Room>
+      <Room id="Random">(Partenaire aléatoire)</Room>
+      <Info1>Pour jouer avec un ami, assurez-vous de mettre le même nom dans votre chambre avant de vous joindre</Info1>
+      <Info2>Les joueurs ne recherchent peut-être pas un match, leur temps d'attente peut donc être long. Une meilleure correspondance sera bientôt disponible!</Info2>
+      <Play>Lire</Play>
+      <ChangeRoom>Changer de salle</ChangeRoom>
+    </OnlineMultiConnect>
+    <SelectMultiType>
+      <SelectGameType>Sélectionnez le Type de Jeu</SelectGameType>
+      <Competitive>Compétitif</Competitive>
+      <Casual>Décontractée</Casual>
+      <FirstToTen>Premier à 10</FirstToTen>
+      <Back>Arrière</Back>
+    </SelectMultiType>
+    <Game>
+      <Room>Chambre: </Room>
+      <Room id="Random">(Partenaire aléatoire)</Room>
+      <PongCompetitive>Pong Compétitif</PongCompetitive>
+      <Rally>Rallye: </Rally>
+      <ClickToRestart>Cliquez n'importe où pour redémarrer</ClickToRestart>
+      <TapToRestart>Appuyez n'importe où pour redémarrer</TapToRestart>
+      <ClickToBegin>Cliquez pour commencer</ClickToBegin>
+      <Begin>Cliquez pour commencer</Begin>
+      <TapToBegin>Appuyez pour commencer</TapToBegin>
+      <WaitingForOpponent>En attente d'un adversaire</WaitingForOpponent>
+      <WaitingForHost>En attente de l'hôte pour démarrer le jeu</WaitingForHost>
+      <NewHighScore>Nouveau record!</NewHighScore>
+      <NewBallEffect>Nouvel effet boule Déverrouillé!</NewBallEffect>
+    </Game>
+    <Loading>
+      <LoadingTip>Astuce: Ce site peut être sauvegardé pour le jeu hors ligne, de sorte que vous pouvez visiter même sans Internet</LoadingTip>
+    </Loading>
+  </fr>
+  <es>
+    <Menu>
+      <Singleplayer>Un solo jugador</Singleplayer>
+      <Multiplayer>Multijugador</Multiplayer>
+      <OnlineMultiplayer>Multijugador en línea</OnlineMultiplayer>
+      <Beta>Beta</Beta>
+      <Settings>Configuraciones</Settings>
+      <ArcadeMode>Modo arcade</ArcadeMode>
+      <Notification>¿Traducción incorrecta? ¡Sugiera un cambio haciendo clic en el ícono de comentarios en la esquina inferior derecha!</Notification>
+    </Menu>
+    <Settings>
+      <Settings>Configuraciones</Settings>
+      <Singleplayer>Un solo jugador</Singleplayer>
+      <ArcadeMode>Modo arcade</ArcadeMode>
+      <RallyHighscore>Rally Highscore:</RallyHighscore>
+      <CustomizeColours>Personaliza los colores</CustomizeColours>
+      <ResetSettings>Reiniciar ajustes</ResetSettings>
+      <ResetPaddle>Restablecer la posición de la paleta en la meta</ResetPaddle>
+      <BackgroundColour>Color de fondo:</BackgroundColour>
+      <BallSpeed>Velocidad de bola:</BallSpeed>
+      <EnableSound>Activar sonido:</EnableSound>
+      <PaddleSpeed>Velocidad de la paleta:</PaddleSpeed>
+      <MatchScoreLimit>Límite de puntuación del partido:</MatchScoreLimit>
+      <FirstToScoreWins>Primero en este puntaje gana</FirstToScoreWins>
+      <Volume>Volumen:</Volume>
+      <Difficulty>Dificultad:</Difficulty>
+      <Difficulty id="-4">Principiante</Difficulty>
+      <Difficulty id="-2">Fácil</Difficulty>
+      <Difficulty id="0">Normal</Difficulty>
+      <Difficulty id="2">Difícil</Difficulty>
+      <Difficulty id="4">Pro</Difficulty>
+      <PaddleOuterColour>Paddle Outer Color:</PaddleOuterColour>
+      <PaddleInnerColour>Paddle Inner Color:</PaddleInnerColour>
+      <BackgroundColour>Color de fondo:</BackgroundColour>
+      <BallColour>Color de bola:</BallColour>
+      <ColourPreview>Avance</ColourPreview>
+      <RequiresRallyHS>Requiere puntuación más alta para desbloquear</RequiresRallyHS>
+      <BallEffect>Efecto de bola:</BallEffect>
+      <Ten>10</Ten>
+      <TwentyFive>25</TwentyFive>
+      <Fifty>50</Fifty>
+      <ResetColours>Restablecer colores</ResetColours>
+    </Settings>
+    <OnlineMultiConnect>
+      <OnlineMultiplayer>Multijugador en línea</OnlineMultiplayer>
+      <Beta>BETA</Beta>
+      <Room>Habitación:</Room>
+      <Room id="Random">(Socio aleatorio)</Room>
+      <Info1>Para jugar con un amigo, asegúrate de configurar tu habitación con el mismo nombre antes de unirte</Info1>
+      <Info2>Es posible que los jugadores no estén buscando un partido, por lo que es posible que sean largos los tiempos de espera. ¡Habrá una mejor oportunidad de emparejar!</Info2>
+      <Play>Jugar</Play>
+      <ChangeRoom>Cambiar habitación</ChangeRoom>
+    </OnlineMultiConnect>
+    <SelectMultiType>
+      <SelectGameType>Seleccionar tipo de juego</SelectGameType>
+      <Competitive>Competitivo</Competitive>
+      <Casual>Casual</Casual>
+      <FirstToTen>Primero a 10</FirstToTen>
+      <Back>Espalda</Back>
+    </SelectMultiType>
+    <Game>
+      <Room/>
+      <Room id="Random"/>
+      <PongCompetitive/>
+      <Rally/>
+      <ClickToRestart/>
+      <TapToRestart/>
+      <ClickToBegin/>
+      <Begin/>
+      <TapToBegin/>
+      <WaitingForOpponent>Esperando un oponente</WaitingForOpponent>
+      <WaitingForHost/>
+      <NewHighScore/>
+      <NewBallEffect/>
+    </Game>
+    <Loading>
+      <LoadingTip>Sugerencia: este sitio se puede guardar para jugar sin conexión, para que pueda visitar incluso sin Internet</LoadingTip>
+    </Loading>
+  </es>
+  <de>
+    <Menu>
+      <Singleplayer>Einzelspieler</Singleplayer>
+      <Multiplayer>Mehrspielermodus</Multiplayer>
+      <OnlineMultiplayer>Online-Mehrspielermodus</OnlineMultiplayer>
+      <Beta>Beta</Beta>
+      <Settings>die Einstellungen</Settings>
+      <ArcadeMode>Arcade-Modus</ArcadeMode>
+      <Notification>Falsche Übersetzung? Schlagen Sie eine Änderung vor, indem Sie auf das Feedback-Symbol unten rechts klicken!</Notification>
+    </Menu>
+    <Settings>
+      <Settings>die Einstellungen</Settings>
+      <Singleplayer>Einzelspieler</Singleplayer>
+      <ArcadeMode>Arcade-Modus</ArcadeMode>
+      <RallyHighscore>Rally Highscore:</RallyHighscore>
+      <CustomizeColours>Farben anpassen</CustomizeColours>
+      <ResetSettings>Einstellungen zurücksetzen</ResetSettings>
+      <ResetPaddle>Paddelposition auf Ziel zurücksetzen</ResetPaddle>
+      <BackgroundColour>Hintergrundfarbe:</BackgroundColour>
+      <BallSpeed>Ballgeschwindigkeit:</BallSpeed>
+      <EnableSound>Sound einschalten:</EnableSound>
+      <PaddleSpeed>Paddelgeschwindigkeit:</PaddleSpeed>
+      <MatchScoreLimit>Match-Punkte-Limit:</MatchScoreLimit>
+      <FirstToScoreWins>Zuerst zu diesem Ergebnis gewinnt</FirstToScoreWins>
+      <Volume>Volumen:</Volume>
+      <Difficulty>Schwierigkeit:</Difficulty>
+      <Difficulty id="-4">Anfänger</Difficulty>
+      <Difficulty id="-2">Einfach</Difficulty>
+      <Difficulty id="0">Normal</Difficulty>
+      <Difficulty id="2">Hart</Difficulty>
+      <Difficulty id="4">Profi</Difficulty>
+      <PaddleOuterColour>Paddel-Außenfarbe:</PaddleOuterColour>
+      <PaddleInnerColour>Paddle Innenfarbe:</PaddleInnerColour>
+      <BackgroundColour>Hintergrundfarbe:</BackgroundColour>
+      <BallColour>Kugelfarbe:</BallColour>
+      <ColourPreview>Vorschau</ColourPreview>
+      <RequiresRallyHS>Benötigt Rallye-Highscore zum Entsperren</RequiresRallyHS>
+      <BallEffect>Ball Wirkung:</BallEffect>
+      <Ten>10</Ten>
+      <TwentyFive>25</TwentyFive>
+      <Fifty>50</Fifty>
+      <ResetColours>Farben zurücksetzen</ResetColours>
+    </Settings>
+    <OnlineMultiConnect>
+      <OnlineMultiplayer>Online-Mehrspielermodus</OnlineMultiplayer>
+      <Beta>BETA</Beta>
+      <Room>Zimmer:</Room>
+      <Room id="Random">(Zufälliger Partner)</Room>
+      <Info1>Um mit einem Freund zu spielen, stellen Sie sicher, dass Sie Ihrem Zimmer den gleichen Namen geben, bevor Sie mitmachen</Info1>
+      <Info2>Die Spieler suchen möglicherweise nicht nach einem Spiel, so dass sie lange warten können. Bessere Match Making kommt bald!</Info2>
+      <Play>abspielen</Play>
+      <ChangeRoom>Zimmer ändern</ChangeRoom>
+    </OnlineMultiConnect>
+    <SelectMultiType>
+      <SelectGameType>Wählen Sie den Spieltyp</SelectGameType>
+      <Competitive>Wettbewerbsfähig</Competitive>
+      <Casual>Beiläufig</Casual>
+      <FirstToTen>Zuerst bis 10</FirstToTen>
+      <Back>Zurück</Back>
+    </SelectMultiType>
+    <Game>
+      <Room/>
+      <Room id="Random"/>
+      <PongCompetitive/>
+      <Rally/>
+      <ClickToRestart/>
+      <TapToRestart/>
+      <ClickToBegin/>
+      <Begin/>
+      <TapToBegin/>
+      <WaitingForOpponent>Warten auf einen Gegner</WaitingForOpponent>
+      <WaitingForHost/>
+      <NewHighScore/>
+      <NewBallEffect/>
+    </Game>
+    <Loading>
+      <LoadingTip>Tipp: Diese Seite kann für die Offline-Wiedergabe gespeichert werden, so dass Sie auch ohne Internet besuchen können</LoadingTip>
+    </Loading>
+  </de>
+</langs>

@@ -1,0 +1,4 @@
+sitemap: http://pong-2.com/sitemap.xml
+User-Agent: *
+Allow: /sitemap.xml
+Allow: /

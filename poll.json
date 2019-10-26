@@ -1,0 +1,84 @@
+{
+	"polls": [
+      {
+        "id": 0,
+        "title": "Numero Uno Poll",
+        "description": "This is the description for this poll",
+        "options": ["first", "middle", "third"],
+        "completed": false,
+	"date": "27/07/2018"
+      },
+      {
+        "id": 1,
+        "title": "Second Poll",
+        "description": "This a the description for poll 2",
+        "options": ["one", "two", "three"],
+        "completed": true,
+	"date": "27/07/2018"
+      },
+      {
+        "id": 2,
+        "title": "Yo should they fill the pool with balls, jk student council cant do shit",
+        "description": "This is the description for this poll",
+        "options": ["one", "two", "three", "four"],
+        "completed": false,
+	"date": "27/07/2018"
+      },
+      {
+        "id": 3,
+        "title": "Fourth Poll",
+        "description": "A component can specify the layout of its children using the flexbox algorithm. Flexbox is designed to provide a consistent layout on different screen sizes. You will normally use a combination of flexDirection, alignItems, and justifyContent to achieve the right layout. Flexbox works the same way in React Native as it does in CSS on the web, with a few exceptions. The defaults are different, with flexDirection defaulting to column instead of row, and the flex parameter only supporting a single number. Flex Direction Adding flexDirection to a component's style determines the primary axis of its layout. Should the children be organized horizontally (row) or vertically (column)? The default is column.",
+        "options": ["one", "two", "three", "four"],
+        "completed": false,
+	"date": "27/07/2018"
+      },
+      {
+        "id": 4,
+        "title": "Fifth Poll",
+        "description": "This is the description for this poll",
+        "options": ["What", "Happens", "if", "you", "add", "a", "ton", "of", "buttons"],
+        "completed": false,
+	"date": "27/07/2018"
+      },
+      {
+        "id": 5,
+        "title": "Sixth Poll",
+        "description": "This a the description for poll 6",
+        "options": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+        "completed": false
+      },
+      {
+        "id": 6,
+        "title": "Seventh Poll",
+        "description": "This is the description for this poll",
+        "options": ["first", "middle", "third"],
+        "completed": true,
+	"date": "19/07/2018"
+      },
+      {
+        "id": 7,
+        "title": "Eigth Poll",
+        "description": "This a the description for poll 8",
+        "options": ["one", "two", "three"],
+        "completed": false,
+	"date": "18/07/2018"
+      },
+      {
+        "id": 8,
+        "title": "Ninth Poll",
+        "description": "This is the description for this poll",
+        "options": ["first", "middle", "third"],
+        "completed": false,
+	"date": "27/04/2018"
+      },
+      {
+        "id": 9,
+        "title": "Tenth Poll",
+        "description": "This a the description for poll 10",
+        "options": ["one", "two", "three"],
+        "completed": false,
+	"date": "23/07/2018"
+      }
+    ]
+
+}
